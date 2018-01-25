@@ -96,9 +96,9 @@ a.open img{opacity:0;}
 
 .load{ width:64px; height:64px; background:url(https://2.bp.blogspot.com/-cudfn0EWBVI/Wmm2DiOQsHI/AAAAAAAAHGc/zeRCZw_Vtf03tkJlrpQA6ufYOEELPk7GwCLcBGAs/s1600/loader.gif) 0 0 no-repeat; position:absolute; top:50%; left:50%; margin:-32px 0 0 -32px; display:none; z-index:9999;}
 .main{ width:820px; height:450px; margin:0 auto; position:relative; padding:0; display:none;}
-.page{ width:820px; height:450px; margin:0 auto; padding:0; display:none; background:url(https://2.bp.blogspot.com/-9RNuPxVnNms/Wmm1_T4_c-I/AAAAAAAAHFs/V1FduAvrpggQRHPGWKSSzqMagY6X707xgCLcBGAs/s320/bg-page.png) top center no-repeat;}
-.shut-left{ width:600px; height:450px; background:url(https://1.bp.blogspot.com/-kVoA3NFdzzs/Wmm2EQXoYtI/AAAAAAAAHGw/Pq-xtBdXQbgiFlKWal_Y2AsDz8vhPCHXACLcBGAs/s320/shut-left.png) top right no-repeat; position:absolute; left:0; bottom:0; z-index:300;}
-.shut-right{ width:700px; height:450px; background:url(https://4.bp.blogspot.com/-RVHpMkVenDo/Wmm2E-_Z1II/AAAAAAAAHG0/d3jWq8APiCo5DWJBxMyS0HxnMS61KUEbgCLcBGAs/s320/shut-right.png) top left no-repeat; position:absolute; right:0; bottom:0; z-index:290;}
+.page{ width:820px; height:450px; margin:0 auto; padding:0; display:none; background:url(https://2.bp.blogspot.com/-9RNuPxVnNms/Wmm1_T4_c-I/AAAAAAAAHFs/V1FduAvrpggQRHPGWKSSzqMagY6X707xgCLcBGAs/s1600/bg-page.png) top center no-repeat;}
+.shut-left{ width:600px; height:450px; background:url(https://1.bp.blogspot.com/-kVoA3NFdzzs/Wmm2EQXoYtI/AAAAAAAAHGw/Pq-xtBdXQbgiFlKWal_Y2AsDz8vhPCHXACLcBGAs/s1600/shut-left.png) top right no-repeat; position:absolute; left:0; bottom:0; z-index:300;}
+.shut-right{ width:700px; height:450px; background:url(https://4.bp.blogspot.com/-RVHpMkVenDo/Wmm2E-_Z1II/AAAAAAAAHG0/d3jWq8APiCo5DWJBxMyS0HxnMS61KUEbgCLcBGAs/s1600/shut-right.png) top left no-repeat; position:absolute; right:0; bottom:0; z-index:290;}
 .box-left{ width:230px; height:450px; position: relative; margin:0 auto; padding:0;}
 .cont{width:570px; height:390px;margin:0;padding:30px 20px 30px 0;}
 .box-c{width:560px; height:390px;margin:0;padding:30px 30px 30px 0;}
