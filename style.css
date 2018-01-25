@@ -3,11 +3,11 @@
 
 /***** Import Reset File *****/
 
-@import url("reset.css");
+@import url("https://cdn.rawgit.com/DisLanZe/LazRail.ORG/37504ec6/reset.css");
 
 /***** Import @FontFace File *****/
 
-@import url("fonts.css");
+@import url("https://github.com/DisLanZe/LazRail.ORG/blob/master/fonts.css");
 
 /***** General *****/
 
